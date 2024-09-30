@@ -15,7 +15,7 @@
 I'm a student learning how to create good responsive websites. Currently, I am learning console applications in C#. I like to develop and I am open to new projects.
 
 <br>
-
+---
 
 ### Languages & Tools
 
@@ -29,6 +29,11 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 <img align="left" akt="Cplusplus" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" akt="Bootstrap" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+
 
 
 
@@ -37,16 +42,9 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 
 
 <!--
-**Szkorupa/Szkorupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Company Website
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I play piano
 -->
