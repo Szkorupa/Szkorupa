@@ -13,8 +13,6 @@
 
 I'm a student learning how to create good responsive websites. Currently, I am learning console applications in C#. I like to develop and I am open to new projects.
 
-<br>
-
 ---
 
 ### Languages & Tools
