@@ -13,6 +13,12 @@
 
 I'm a student learning how to create good responsive websites. Currently, I am learning console applications in C#. I like to develop and I am open to new projects.
 
+- 🔭 I’m currently working on Company Website
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I play piano
+
 ---
 
 ### Languages & Tools
@@ -46,10 +52,6 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 
 
 
-<!--
-- 🔭 I’m currently working on Company Website
-- 🌱 I’m currently learning C#
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I play piano
--->
+
+
+
