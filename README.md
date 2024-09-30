@@ -1,10 +1,14 @@
+<div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
       <h1 align="center" style="border-bottom: 0px;" >Maksymilian Szkorupa</h1>
     </summary>
   </ul>
+</div
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1012&height=20&lines=Hello%2C+I+am+Web+Developer)](https://git.io/typing-svg)
+
+<br>
 ### 🤓 About me
 
 I'm a student learning how to create good responsive websites. Currently, I am learning console applications in C#. I like to develop and I am open to new projects.
