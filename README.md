@@ -41,7 +41,7 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 
 <div align="left">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Szkorupa&hide_progress=true&theme=dark)
 </div>
 
 
