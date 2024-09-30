@@ -30,7 +30,9 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 <img align="left" akt="Bootstrap" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 <br>
+
 ---
+
 <br>
 
 ### Github Stats
