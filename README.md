@@ -1,4 +1,6 @@
+<summary>
 <h1 align="center" style="border-bottom: 0px;" >Maksymilian Szkorupa</h1>
+</summary>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=AB3DF7&center=true&vCenter=true&width=1012&lines=Hello%2C+I'm+Web+Developer)](https://git.io/typing-svg)
 
