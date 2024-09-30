@@ -34,7 +34,7 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 
 ---
 
-### Github Stats
+### <h3 align="left"> Github Stats </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
