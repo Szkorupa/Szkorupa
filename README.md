@@ -1,8 +1,10 @@
+
 <h1 align="center" border="0" >Maksymilian Szkorupa</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=AB3DF7&center=true&vCenter=true&width=1012&lines=Hello%2C+I'm+Web+Developer)](https://git.io/typing-svg)
 
 ---
+
 ### 🤓 About me
 
 I'm a student learning how to create good responsive websites. Currently, I am learning console applications in C#. I like to develop and I am open to new projects.
