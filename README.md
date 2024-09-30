@@ -8,7 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1012&height=20&lines=Hello%2C+I+am+Web+Developer)](https://git.io/typing-svg)
 
-<br>
 
 ### 🤓 About me
 
@@ -34,8 +33,6 @@ I'm a student learning how to create good responsive websites. Currently, I am l
 <br>
 
 ---
-
-<br>
 
 ### Github Stats
 
